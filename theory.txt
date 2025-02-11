@@ -1,0 +1,31 @@
+
+
+
+Js Conditional Statement.......(if/else & switch/case)
+=======================================================
+
+If Rahim comes by his cycle then I will go to field, if Karim comes by his bike then I will go to park
+or if Bablu comes by his car then we will go to a long drive Otherwise I will enjoy movie in my room. 
+
+
+Rahim => Cycle = field
+Karim => Bike  = park
+Bablu => Car   = long drive 
+Other => movie 
+
+
+if (condition){
+    //Statement....
+}
+
+else if(condition){
+    //Statement....
+}
+
+else if(condition){
+    ///Statement.....
+}
+
+else{
+    //Statement...
+}
